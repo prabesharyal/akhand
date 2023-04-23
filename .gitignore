@@ -1,0 +1,9 @@
+# Comments
+.env
+
+#avoiding API leak
+
+#Double ckecking your code is necessary 
+*/*.py
+*/*/*.py
+tests/**/*.*
